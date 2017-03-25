@@ -1,0 +1,6 @@
+#ifndef SITEENGINE_H
+#define SITEENGINE_H
+
+enum siteType {TRADER,FOUNTAIN_OF_YOUTH,TREASURE,MAP,SHIP_REPAIR};
+
+#endif
