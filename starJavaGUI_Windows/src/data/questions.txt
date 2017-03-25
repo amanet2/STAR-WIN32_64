@@ -1,0 +1,15 @@
+what is the capital of Germany?,Berlin,Prague,Rotterdam,Cologne
+what is the capital of Poland?,Warsaw,Prague,Budapest,Kiev
+what is the capital of France?,Paris,London,St. Petersburg,Cologne
+what is the capital of England?,London,Paris,Rotterdam,Dresden
+what is the capital of Russia?,Moscow,St. Petersburg,Kiev,Warsaw
+The Declaration of Independence was signed in which year?,1776,1778,1812,1766
+The Soviet Union fell in which year?,1991,1990,2001,1945
+Which of the following countries has had an empire?,All of the Above,Germany,Austria,France
+Which country was the first to land a man on the moon?,America,Russia,China,England
+Which Dinosaur is from the Jurassic Period?,Allosaraus,Tyrranosaurous,Triceratops,Brachiosaurus
+What is Christian Chiakulas' greatest hit?,Hell Yeah,Talk until we can't,I found you,Lamentations
+The Angry Video Game Nerd Drinks Which Beer?,Rolling Rock,PBR,High Life,Miller Lite
+Which Civilization had the first Fire Department?,Romans,Greeks,Mycenians,Egyptians
+Which year was the Great Chicago Fire?,1871,1861,1833,1812
+This Star Wars character "shoots first"...,Han Solo,Greedo,Jabba The Hutt,Boba Fett

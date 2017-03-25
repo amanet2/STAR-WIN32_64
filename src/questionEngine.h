@@ -1,0 +1,6 @@
+#ifndef QUESTIONENGINE_H
+#define QUESTIONENGINE_H
+
+enum questionType {MATH,SCIENCE,HISTORY,SOCIAL_STUDIES,ENGLISH};
+
+#endif
